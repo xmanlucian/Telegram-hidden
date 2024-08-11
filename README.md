@@ -6,6 +6,7 @@ Replace token with ```your_bot_token``` in ```config.ini```
 
 Run app.py
 ```sh
+pip install configparser jsonschema python-telegram-bot nest_asyncio
 ./python3 app.py
 ```
 Send ``` /hello ``` to your bot and you will get your user id and replace it in ``` your_user_id``` in ```config.ini```
