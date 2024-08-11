@@ -8,7 +8,7 @@ Run app.py
 ```sh
 ./python3 app.py
 ```
-Send ```sh /hello ``` to your bot and you will get your user id and replace it in ```sh  your_user_id``` in ```sh config.ini```
+Send ``` /hello ``` to your bot and you will get your user id and replace it in ``` your_user_id``` in ```config.ini```
 
 Re-run the code, and you can publish the robot's username online.
 Any messages sent by anyone will be forwarded to the administrator account.
