@@ -2,13 +2,13 @@
 Use telegram bot to hide your real TG account and information.
 
 Get a bot from @BotFather, send /newbot and follow the prompts until you get a token.
-Replace token with your_bot_token in config.ini
+Replace token with ```sh your_bot_token``` in ```sh config.ini```
 
 Run app.py
 ```sh
 ./python3 app.py
 ```
-Send /hello to your bot and you will get your user id and replace it in config.ini your_user_id
+Send ```sh /hello ``` to your bot and you will get your user id and replace it in ```sh  your_user_id``` in ```sh config.ini```
 
 Re-run the code, and you can publish the robot's username online.
 Any messages sent by anyone will be forwarded to the administrator account.
