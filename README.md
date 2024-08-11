@@ -2,7 +2,7 @@
 Use telegram bot to hide your real TG account and information.
 
 Get a bot from @BotFather, send /newbot and follow the prompts until you get a token.
-Replace token with ```sh your_bot_token``` in ```sh config.ini```
+Replace token with ```your_bot_token``` in ```config.ini```
 
 Run app.py
 ```sh
