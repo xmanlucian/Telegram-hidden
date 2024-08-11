@@ -10,7 +10,7 @@ Run app.py
 ```
 Send /hello to your bot and you will get your user id and replace it in config.ini your_user_id
 
-Re-run the system, and you can publish the robot's username online.
+Re-run the code, and you can publish the robot's username online.
 Any messages sent by anyone will be forwarded to the administrator account.
 Select the message sent by the other party, choose to reply, and the message will be forwarded to the original sender through the robot. Until the other party gains your trust and exchanges your real contact information.
 Another advantage of the robot is that it cannot be reported. When contacting strangers, it can protect your account from being maliciously reported.
